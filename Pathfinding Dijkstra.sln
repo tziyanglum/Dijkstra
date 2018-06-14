@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{74925D4B-BA84-8F4D-D675-072447A5333C}") = "Pathfinding Dijkstra", "Assembly-CSharp.csproj", "{438BA256-DF82-26B3-0B49-B87475B28478}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{438BA256-DF82-26B3-0B49-B87475B28478}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{438BA256-DF82-26B3-0B49-B87475B28478}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{438BA256-DF82-26B3-0B49-B87475B28478}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{438BA256-DF82-26B3-0B49-B87475B28478}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
